@@ -2,7 +2,7 @@
 
 ## Enunciado (sección PHP)
 
-Según el enunciado de la prueba técnica: :contentReference[oaicite:0]{index=0}
+Según el enunciado de la prueba técnica:
 
 1) **Listado de autos:** dada una lista estática (marca, modelo, precio), mostrarlos en una **tabla HTML**.  
 2) **Filtro por precio:** mostrar solo los autos con precio **menor** a un valor dado (ej: $10.000.000).  
